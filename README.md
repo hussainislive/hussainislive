@@ -16,7 +16,7 @@ Languages: JavaScript, Python, TypeScript, HTML5, CSS3
 
 Front-End: React.js, React Native (Mobile App Development), Next.js, Tailwind CSS, Bootstrap
 
-Back-End: Node.js, Express.js, MongoDB, Redis
+Back-End: Node.js, Express.js, NestJS
 
 Databases: Firebase, Redis, MongoDB, PostgreSQL, SQL, Vector Databases (Pinecone)
 
@@ -25,8 +25,6 @@ Tools: Git, GitHub, GitLab, Docker, Postman, VS Code
 Automation & Testing: Playwright, Puppeteer, Selenium
 
 CI/CD: GitHub Actions, Docker, CI/CD Pipelines
-
-GraphQL 
 
 Bug Bounty: Passionate about security and penetration testing
 
