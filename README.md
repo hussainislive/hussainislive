@@ -1,8 +1,40 @@
-🧑‍💻 About Me<br><br>Hello! I'm **Hussain Ahmed**, a passionate and experienced **Full-Stack Engineer**. I specialize in building and optimizing web applications with seamless front-end and back-end integration. I’m constantly learning new technologies and improving my skills to build efficient and scalable software solutions.<br><br>- 🔭 Currently working as a Freelance Full Stack Developer**<br>- 🌱 Currently learning **React-Native** and **DevOops**<br>- 👯 Looking to collaborate on **open-source projects**<br>- 💬 Ask me about **JavaScript, React, Node.js, and database management**<br><br>---<br><br>### 🚀 Skills & Expertise<br><br>#### Languages<br>![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)<br><br><br>#### Front-End Development<br>![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)<br><br>#### Back-End Development<br>![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)<br>![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)<br>![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)<br><br>#### Tools & Technologies<br>![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)<br>![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)<br>![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)<br><br>---<br><br>### <br><br>### 📫 How to Reach Me<br>- LinkedIn: [Connect with me](https://linkedin.com/in/hussainislive)<br>- Email: [your.email@example.com](mailto:developer.hussain125@gmail.com)<br><br>---<br><br>
+Hussain Ahmed - Full-Stack Engineer & Mobile App Developer
 
+Hello! I'm Hussain Ahmed, a passionate and experienced Full-Stack Engineer with a focus on Web Development and Mobile App Development using MERN Stack, Next.js, and React Native. I specialize in building and optimizing web applications and mobile apps with seamless front-end and back-end integration. I am continuously expanding my knowledge of cutting-edge technologies and crafting scalable, high-performing solutions.
 
-🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hussain.dev125) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hussainislive) 
+🔭 Current Role: Full-Stack Developer | React Native Mobile App Developer
 
-💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Metero JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+🌱 Currently Learning: DevOps, Micro-Services & AI-Workflow Automation
+
+💬 Ask me about: JavaScript, React, React Native, Node.js, Database management, DevOps, Mobile App Development, Automations.
+
+🤫 Great at: Creative Front-End UIs (React-Three-Fiber, Three.js, ScrollTrigger, Lenis, and more)
+
+🚀 Main Tech Stack & Technologies
+
+Languages: JavaScript, Python, TypeScript, HTML5, CSS3
+
+Front-End: React.js, React Native (Mobile App Development), Next.js, Tailwind CSS, Bootstrap
+
+Back-End: Node.js, Express.js, MongoDB, Redis
+
+Databases: Firebase, Redis, MongoDB, PostgreSQL, SQL
+
+Tools: Git, GitHub, GitLab, Docker, Postman, VS Code
+
+Automation & Testing: Playwright, Puppeteer, Selenium
+
+CI/CD: GitHub Actions, Docker, CI/CD Pipelines
+
+GraphQL 
+
+Bug Bounty: Passionate about security and penetration testing
+🎨 Creative Front-End Libraries & Animations
+
+React-Three-Fiber, Three.js, ScrollTrigger, Lenis, GSAP, Framer Motion
+
+📫 How to Reach Me
+
+Email: developer.hussain125@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/hussainislive/
