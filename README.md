@@ -18,7 +18,7 @@ Front-End: React.js, React Native (Mobile App Development), Next.js, Tailwind CS
 
 Back-End: Node.js, Express.js, MongoDB, Redis
 
-Databases: Firebase, Redis, MongoDB, PostgreSQL, SQL
+Databases: Firebase, Redis, MongoDB, PostgreSQL, SQL, Vector Databases (Pinecone)
 
 Tools: Git, GitHub, GitLab, Docker, Postman, VS Code
 
@@ -29,6 +29,7 @@ CI/CD: GitHub Actions, Docker, CI/CD Pipelines
 GraphQL 
 
 Bug Bounty: Passionate about security and penetration testing
+
 🎨 Creative Front-End Libraries & Animations
 
 React-Three-Fiber, Three.js, ScrollTrigger, Lenis, GSAP, Framer Motion
