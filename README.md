@@ -2,7 +2,7 @@ Hussain Ahmed - Full-Stack Engineer & Mobile App Developer
 
 Hello! I'm Hussain Ahmed, a passionate and experienced Full-Stack Engineer with a focus on Web Development and Mobile App Development using MERN Stack, Next.js, and React Native. I specialize in building and optimizing web applications and mobile apps with seamless front-end and back-end integration. I am continuously expanding my knowledge of cutting-edge technologies and crafting scalable, high-performing solutions.
 
-🔭 Current Role: Full-Stack Developer | React Native Mobile App Developer
+🔭 Current Role: Full-Stack Developer
 
 🌱 Currently Learning: DevOps, Micro-Services & AI-Workflow Automation
 
